@@ -1,16 +1,9 @@
 jasalc.github.io
 ================
 
-## Hello world!
+## Innovation Fund Scrum
 
-This is my first try at github!
 
-My Github user page is at: 
-https://github.com/jasalc/
+URL for this page: http://jasalc.github.io/
 
-My Github Pages repo can be found at:  
-https://github.com/jasalc/jasalc.github.io/
-
-And, soon, you can see my customized homepage at:
-
-http://jasalc.github.io/
+# What are we doing here?
